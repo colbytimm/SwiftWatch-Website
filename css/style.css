@@ -157,6 +157,10 @@ p.lead {
     padding: 80px 0;
 }
 
+.section-gallery {
+    padding: 0px 0px;
+}
+
 .section-title {
     text-align: center;
     margin-bottom: 3rem;
@@ -175,6 +179,9 @@ p.lead {
     }
 }
 
+.carousel-indicators .active {
+    background-color: #DE408D;
+}
 
 /* NAVBAR
 ----------------------*/
@@ -387,7 +394,7 @@ header {
 
 @media (min-width:992px) {
     .perspective-phone {
-        margin-top: -150px;
+        margin-top: -250px;
     }
 }
 
